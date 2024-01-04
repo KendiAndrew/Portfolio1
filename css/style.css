@@ -1119,10 +1119,10 @@ a{
         bottom: -35px;
     }
     .service__img{
-        left: 0;
         right: 0;
     }
     .product--img{
+        left: 0;
         width: 80%;
         bottom: -12px;
     }
