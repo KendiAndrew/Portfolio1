@@ -645,6 +645,7 @@ a{
     padding-bottom: 35px;
 }
 .product__img {
+    left: -10%;
     position: relative;
     width: 60%;
 }
@@ -1118,6 +1119,7 @@ a{
         bottom: -35px;
     }
     .service__img{
+        left: 0;
         right: 0;
     }
     .product--img{
